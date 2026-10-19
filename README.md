@@ -101,7 +101,7 @@ Before building the PivotTables, I verified that:
 
 ## 🚀 How to Use
 
-1. Download `Sales_Dashboard.xlsx`.
+1. Download `Excel_PivotTable_Dashboard.xlsx`.
 2. Open it in Microsoft Excel (2016 or newer recommended).
 3. Go to the dashboard sheet and use the slicers and timelines to filter
    the data.
