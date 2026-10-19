@@ -1,6 +1,7 @@
-# Sales-Dashboard-Excel
+# 📊 Sales Dashboard – Excel
 An interactive sales dashboard built in Microsoft Excel using PivotTables, PivotCharts, slicers, and timelines.
-![Sales Dashboard](images/dashboard.png)
+
+![Excel_Sales_Dashboard](Excel_Sales_Dashboard.png)
 
 ## 🎯 Project Goal
 
